@@ -6,12 +6,9 @@ A modern, responsive, and animated personal portfolio web application designed t
 
 ---
 
-## 📸 Portfolio Preview
+<img width="1357" height="638" alt="image" src="https://github.com/user-attachments/assets/b1c97c59-054e-4b11-b46a-12ffd0e7e6e8" />
 
-![Portfolio Screenshot](https://www.aditya-farkade.online/) 
-> *Note: Replace the image link above with your actual screenshot image path (e.g., `./assets/screenshot.png`).*
 
----
 
 ## ✨ Features
 
