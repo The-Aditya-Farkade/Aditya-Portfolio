@@ -3,6 +3,7 @@
 A modern, responsive, and animated personal portfolio web application designed to showcase software engineering, web development, data analytics, and utility infrastructure projects.
 
 🔗 **Live Website:** [aditya-farkade.online](https://www.aditya-farkade.online/)
+  🔗 https://the-aditya-farkade.github.io/Aditya-Portfolio/
 
 ---
 
